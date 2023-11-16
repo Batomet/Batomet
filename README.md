@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Computer Engineering
+
 📫 How to reach me: bartekklono@gmail.com
