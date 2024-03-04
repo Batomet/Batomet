@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Computer Engineering
+🌱 I just graduated from university with a degree in Computer Engineering
 
 📫 How to reach me: bartekklono@gmail.com
